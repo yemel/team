@@ -36,6 +36,6 @@ Each staff member has a `teamid.json`. This is non-private data related to the i
   <dd>LinkedIn username.</dd>
   
   <dt>image</dt>
-  <dd>Relative path to a 250px &times; 250px profile image (standard: <kbd>teamid.ext</kbd>). The presence of this field indicates that the person has a profile image.</dd>
+  <dd>Relative path to a square profile image, <kbd>250px &times; 250px</kbd> minimum (standard: <kbd>teamid.ext</kbd>). The presence of this field indicates that the person has a profile image.</dd>
 
 </dl>
